@@ -1,0 +1,7 @@
+README.md
+setup.py
+miTercerRepo/__init__.py
+miTercerRepo.egg-info/PKG-INFO
+miTercerRepo.egg-info/SOURCES.txt
+miTercerRepo.egg-info/dependency_links.txt
+miTercerRepo.egg-info/top_level.txt
